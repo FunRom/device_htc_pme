@@ -128,7 +128,8 @@ PRODUCT_PACKAGES += \
     hwcomposer.msm8996 \
     memtrack.msm8996 \
     liboverlay \
-    libtinyxml
+    libtinyxml \
+    DeviceHandler
 
 # GPS
 PRODUCT_PACKAGES += \
