@@ -141,10 +141,6 @@ PRODUCT_PACKAGES += \
     fingerprint.msm8996 \
     fingerprintd
 
-# FlipFlap
-PRODUCT_PACKAGES += \
-    FlipFlap
-
 # GPS
 PRODUCT_PACKAGES += \
     gps.msm8996 \
