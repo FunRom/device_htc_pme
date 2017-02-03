@@ -133,8 +133,7 @@ PRODUCT_PACKAGES += \
     hwcomposer.msm8996 \
     memtrack.msm8996 \
     liboverlay \
-    libtinyxml \
-    DeviceHandler
+    libtinyxml 
 
 # Fingerprint
 PRODUCT_PACKAGES += \
